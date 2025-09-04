@@ -63,10 +63,11 @@ Look at run_bp_oscillometry.m in AlgorithmTesting
 **No raw patient/device data is included.**
 
 
-## Requirements
+## Technologies
 
-* MATLAB R2021a or newer (for envelope support)
-* Signal Processing Toolbox
+* **Language**: MATLAB (R2021a or newer)
+* **Toolboxes**: Signal Processing Toolbox
+* **Algorithms**: FIR/IIR filtering, Butterworth design, oscillation envelope detection, regression validation
 
 ---
 
