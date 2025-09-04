@@ -50,14 +50,6 @@ bp-oscillometry/
 
 ---
 
-## Example Workflow
-
-```matlab
-Look at run_bp_oscillometry.m in AlgorithmTesting
-```
-
----
-
 ## Data
 
 **No raw patient/device data is included.**
